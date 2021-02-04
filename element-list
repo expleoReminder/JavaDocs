@@ -1,0 +1,14 @@
+com.reminder.project
+com.reminder.project.auth
+com.reminder.project.configuration
+com.reminder.project.configuration.security
+com.reminder.project.configuration.security.constraints
+com.reminder.project.controller
+com.reminder.project.controller.request
+com.reminder.project.domain
+com.reminder.project.dto
+com.reminder.project.email
+com.reminder.project.exception
+com.reminder.project.repository
+com.reminder.project.service
+com.reminder.project.utils
